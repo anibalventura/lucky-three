@@ -2,8 +2,6 @@
 
 Simple lucky game for one player.
 
-App made following the tutorial [How to Make an App for Beginners (SwiftUI)](https://www.youtube.com/playlist?list=PLMRqhzcHGw1YqPh-ggQHJPAUxdHov_uNJ)
-
 ## Features
 * Spin button to get random slots.
 * Get 15 credits when match with the same 3 fruits.
@@ -12,6 +10,9 @@ App made following the tutorial [How to Make an App for Beginners (SwiftUI)](htt
 <img src="screenshots/app.png" width="30%"/>
 
 # License
+
+App made following the tutorial [How to Make an App for Beginners (SwiftUI)](https://www.youtube.com/playlist?list=PLMRqhzcHGw1YqPh-ggQHJPAUxdHov_uNJ)
+
 ```xml
 Copyright CodeWithChris
 ```
