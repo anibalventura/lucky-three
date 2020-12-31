@@ -1,6 +1,6 @@
 # Lucky Three
 
-Simple card game for one player vs CPU.
+Simple lucky game for one player.
 
 ## Features
 * Spin button to get random slots.
